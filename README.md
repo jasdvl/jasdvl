@@ -1,4 +1,4 @@
-# 🌟 Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!
 
 ## 👩‍💻 About Me
 I am an experienced and passionate .NET Software Developer and Architect. My expertise spans across various areas, including:
