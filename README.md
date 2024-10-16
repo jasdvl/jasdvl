@@ -18,5 +18,3 @@ Feel free to connect with me through:
 
 - [LinkedIn](https://www.linkedin.com/in/jana-schmid)
 - [Email](mailto:jdev.five@emailn.de)
-
-Thank you for visiting my profile! Let's collaborate and create something amazing together!
