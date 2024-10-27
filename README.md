@@ -11,7 +11,7 @@ I love tackling complex problems and building applications that provide value to
 
 ## 🚀 What I’m Currently Working On
 - A community website with an integrated video chat feature that enables real-time communication and interaction between users (ASP.NET Core, Angular, SignalR, Docker, WebRTC).
-- Expanding my skills in RabbitMQ.
+- Expanding my skills in RabbitMQ and gRPC.
 
 ## 📫 Get in Touch
 Feel free to connect with me through:
