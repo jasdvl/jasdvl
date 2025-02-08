@@ -11,7 +11,7 @@ I am an experienced and passionate .NET Software Developer and Architect. These 
 - **Cloud-Based Solutions on Azure (Docker, Azure Container Apps, Azure Kubernetes Service, Azure Static Web Apps, Azure DevOps CI/CD)**
 
 I love tackling complex problems and building applications that provide value to users and organizations alike.  
-When I'm not coding, I enjoy listening to history podcasts (especially about ancient history), doing a bit of exercise (not too much), or taking walks in nature.
+When I'm not coding, I enjoy listening to history podcasts (especially about ancient history), doing a bit of exercise, or taking walks in nature.
 
 ## 📫 Get in Touch
 Feel free to connect with me through:
